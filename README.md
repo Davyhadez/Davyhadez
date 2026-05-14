@@ -8,11 +8,11 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,php,java,laravel,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap"/><br>
+    <img src="https://skillicons.dev/icons?i=php,java,laravel,py"/>
   </a>
 </p>
 
-<img src="https://giffiles.alphacoders.com/262/2623.gif" alt="link"></img>
 <img src="https://media.tenor.com/uaqORKhUsCcAAAAm/legend-of-zelda-link.webp" alt="link"></img>
 
 
